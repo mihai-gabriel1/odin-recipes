@@ -1,0 +1,19 @@
+.description {
+  font-size: 26px;
+}
+.ingredients {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.directions {
+  font-weight: 800;
+}
+dt {
+  font-size: 18px;
+  font-weight: 900;
+}
+li {
+  line-height: 1.5;
+  list-style-type: armenian;
+}
